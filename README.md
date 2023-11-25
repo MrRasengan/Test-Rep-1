@@ -1,6 +1,6 @@
 # Test-Rep-1
 
-Rep 2
+Line conflict
 
 ## Hello Git!
 
