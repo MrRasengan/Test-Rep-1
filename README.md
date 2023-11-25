@@ -1,6 +1,7 @@
 # Test-Rep-1
 
 Line conflict
+conflict Git Hub
 
 ## Hello Git!
 
